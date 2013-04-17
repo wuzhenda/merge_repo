@@ -58,6 +58,7 @@ for l_proj in local_proj:
         if  l_proj.get("path") == a_proj.get("path"):
             haveIt=True
             same_proj.append(a_proj)
+            os.system('echo  %s  %s >>aosp_local_map.txt'%(a_proj.get("name"),l_proj.get("name")))
             break
     if not haveIt:
         print("local have only %s ")%(l_proj.get("name"))
