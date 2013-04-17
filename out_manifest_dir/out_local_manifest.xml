@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest><project name="openbox_device_allwinner" path="device/allwinner" />
+    <project name="openbox_external_bluetooth_bluez" path="external/bluetooth/bluez" />
+    <project name="openbox_external_bluetooth_glib" path="external/bluetooth/glib" />
+    <project name="openbox_external_bluetooth_hcidump" path="external/bluetooth/hcidump" />
+    <project name="openbox_external_collada" path="external/collada" />
+    <project name="openbox_external_fsck_msdos" path="external/fsck/msdos" />
+    <project name="openbox_external_pcre" path="external/pcre" />
+    <project name="openbox_external_wpa_supplicant" path="external/wpa_supplicant" />
+    <project name="openbox_frameworks_media_libvideoeditor" path="frameworks/media/libvideoeditor" />
+    <project name="linux-sunxi" path="kernel/allwinner/common" />
+    <project name="openbox_packages_providers_GoogleContactsProvider" path="packages/providers/GoogleContactsProvider" />
+    <project name="openbox_prebuilt" path="prebuilt" />
+    <project name="openbox_tools" path="tools" />
+  
+</manifest>

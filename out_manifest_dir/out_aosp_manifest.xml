@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest><project groups="device" name="device/asus/grouper" path="device/asus/grouper" />
+  <project groups="device" name="device/asus/tilapia" path="device/asus/tilapia" />
+  <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon" />
+  <project name="device/generic/armv7-a" path="device/generic/armv7-a" />
+  <project name="device/generic/common" path="device/generic/common" />
+  <project name="device/generic/mips" path="device/generic/mips" />
+  <project name="device/generic/x86" path="device/generic/x86" />
+  <project groups="device" name="device/lge/mako" path="device/lge/mako" />
+  <project groups="device" name="device/lge/mako-kernel" path="device/lge/mako-kernel" />
+  <project groups="device" name="device/samsung/maguro" path="device/samsung/maguro" />
+  <project groups="device" name="device/samsung/manta" path="device/samsung/manta" />
+  <project groups="device" name="device/samsung/toro" path="device/samsung/toro" />
+  <project groups="device" name="device/samsung/toroplus" path="device/samsung/toroplus" />
+  <project groups="device" name="device/samsung/tuna" path="device/samsung/tuna" />
+  <project groups="device" name="device/ti/panda" path="device/ti/panda" />
+  <project name="platform/external/aac" path="external/aac" />
+  <project name="platform/external/android-clat" path="external/android-clat" />
+  <project name="platform/external/ant-glob" path="external/ant-glob" />
+  <project name="platform/external/apache-qp" path="external/apache-qp" />
+  <project name="platform/external/arduino" path="external/arduino" />
+  <project name="platform/external/bluetooth/bluedroid" path="external/bluetooth/bluedroid" />
+  <project name="platform/external/checkpolicy" path="external/checkpolicy" />
+  <project name="platform/external/chromium-trace" path="external/chromium-trace" />
+  <project name="platform/external/cibu-fonts" path="external/cibu-fonts" />
+  <project name="platform/external/compiler-rt" path="external/compiler-rt" />
+  <project name="platform/external/dexmaker" path="external/dexmaker" />
+  <project name="platform/external/eclipse-basebuilder" path="external/eclipse-basebuilder" />
+  <project name="platform/external/eclipse-windowbuilder" path="external/eclipse-windowbuilder" />
+  <project name="platform/external/fat32lib" path="external/fat32lib" />
+  <project name="platform/external/fsck_msdos" path="external/fsck_msdos" />
+  <project name="platform/external/ganymed-ssh2" path="external/ganymed-ssh2" />
+  <project name="platform/external/gcc-demangle" path="external/gcc-demangle" />
+  <project name="platform/external/hamcrest" path="external/hamcrest" />
+  <project name="platform/external/jack" path="external/jack" />
+  <project name="platform/external/jmdns" path="external/jmdns" />
+  <project name="platform/external/jmonkeyengine" path="external/jmonkeyengine" />
+  <project name="platform/external/libcap-ng" path="external/libcap-ng" />
+  <project name="platform/external/libmtp" path="external/libmtp" />
+  <project name="platform/external/libnfc-nci" path="external/libnfc-nci" />
+  <project name="platform/external/libogg" path="external/libogg" />
+  <project name="platform/external/libppp" path="external/libppp" />
+  <project name="platform/external/libselinux" path="external/libselinux" />
+  <project name="platform/external/libsepol" path="external/libsepol" />
+  <project name="platform/external/libusb" path="external/libusb" />
+  <project name="platform/external/libusb-compat" path="external/libusb-compat" />
+  <project name="platform/external/libvorbis" path="external/libvorbis" />
+  <project name="platform/external/linux-tools-perf" path="external/linux-tools-perf" />
+  <project name="platform/external/littlemock" path="external/littlemock" />
+  <project name="platform/external/mdnsresponder" path="external/mdnsresponder" />
+  <project name="platform/external/mp4parser" path="external/mp4parser" />
+  <project name="platform/external/naver-fonts" path="external/naver-fonts" />
+  <project name="platform/external/okhttp" path="external/okhttp" />
+  <project name="platform/external/openfst" path="external/openfst" />
+  <project name="platform/external/openssh" path="external/openssh" />
+  <project name="platform/external/regex-re2" path="external/regex-re2" />
+  <project name="platform/external/sepolicy" path="external/sepolicy" />
+  <project name="platform/external/smali" path="external/smali" />
+  <project name="platform/external/stressapptest" path="external/stressapptest" />
+  <project name="platform/external/tinyxml2" path="external/tinyxml2" />
+  <project name="platform/external/xmp_toolkit" path="external/xmp_toolkit" />
+  <project name="platform/external/zxing" path="external/zxing" />
+  <project name="platform/frameworks/av" path="frameworks/av" />
+  <project name="platform/frameworks/compile/llvm-ndk-cc" path="frameworks/compile/llvm-ndk-cc" />
+  <project name="platform/frameworks/compile/mclinker" path="frameworks/compile/mclinker" />
+  <project name="platform/frameworks/mff" path="frameworks/mff" />
+  <project name="platform/frameworks/ml" path="frameworks/ml" />
+  <project name="platform/frameworks/native" path="frameworks/native" />
+  <project name="platform/frameworks/opt/carddav" path="frameworks/opt/carddav" />
+  <project name="platform/frameworks/opt/mms" path="frameworks/opt/mms" />
+  <project name="platform/frameworks/opt/photoviewer" path="frameworks/opt/photoviewer" />
+  <project name="platform/frameworks/opt/telephony" path="frameworks/opt/telephony" />
+  <project name="platform/frameworks/rs" path="frameworks/rs" />
+  <project name="platform/frameworks/testing" path="frameworks/testing" />
+  <project name="platform/frameworks/wilhelm" path="frameworks/wilhelm" />
+  <project name="platform/gdk" path="gdk" />
+  <project name="platform/hardware/qcom/audio" path="hardware/qcom/audio" />
+  <project name="platform/hardware/qcom/bt" path="hardware/qcom/bt" />
+  <project name="platform/hardware/qcom/camera" path="hardware/qcom/camera" />
+  <project name="platform/hardware/qcom/display" path="hardware/qcom/display" />
+  <project name="platform/hardware/qcom/keymaster" path="hardware/qcom/keymaster" />
+  <project name="platform/hardware/qcom/msm8960" path="hardware/qcom/msm8960" />
+  <project name="platform/hardware/qcom/power" path="hardware/qcom/power" />
+  <project name="platform/hardware/qcom/sensors" path="hardware/qcom/sensors" />
+  <project name="platform/hardware/qcom/wlan" path="hardware/qcom/wlan" />
+  <project name="platform/hardware/samsung_slsi/exynos5" path="hardware/samsung_slsi/exynos5" />
+  <project name="platform/hardware/ti/omap3" path="hardware/ti/omap3" />
+  <project name="platform/hardware/ti/omap4xxx" path="hardware/ti/omap4xxx" />
+  <project name="platform/hardware/ti/wlan" path="hardware/ti/wlan" />
+  <project name="platform/hardware/ti/wpan" path="hardware/ti/wpan" />
+  <project name="platform/libnativehelper" path="libnativehelper" />
+  <project name="platform/packages/apps/Camera" path="packages/apps/Camera" />
+  <project name="platform/packages/apps/LegacyCamera" path="packages/apps/LegacyCamera" />
+  <project name="platform/packages/apps/SmartCardService" path="packages/apps/SmartCardService" />
+  <project name="platform/packages/providers/PartnerBookmarksProvider" path="packages/providers/PartnerBookmarksProvider" />
+  <project name="platform/packages/screensavers/Basic" path="packages/screensavers/Basic" />
+  <project name="platform/packages/screensavers/PhotoTable" path="packages/screensavers/PhotoTable" />
+  <project name="platform/packages/screensavers/WebView" path="packages/screensavers/WebView" />
+  <project name="platform/pdk" path="pdk" />
+  <project groups="darwin" name="platform/prebuilts/clang/darwin-x86/3.1" path="prebuilts/clang/darwin-x86/3.1" />
+  <project groups="darwin" name="platform/prebuilts/clang/darwin-x86/3.2" path="prebuilts/clang/darwin-x86/3.2" />
+  <project groups="linux" name="platform/prebuilts/clang/linux-x86/3.1" path="prebuilts/clang/linux-x86/3.1" />
+  <project groups="linux" name="platform/prebuilts/clang/linux-x86/3.2" path="prebuilts/clang/linux-x86/3.2" />
+  <project name="platform/prebuilts/eclipse" path="prebuilts/eclipse" />
+  <project groups="notdefault,eclipse" name="platform/prebuilts/eclipse-build-deps" path="prebuilts/eclipse-build-deps" />
+  <project groups="notdefault,eclipse" name="platform/prebuilts/eclipse-build-deps-sources" path="prebuilts/eclipse-build-deps-sources" />
+  <project groups="darwin,arm" name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-eabi-4.6" />
+  <project groups="darwin,arm" name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.6" />
+  <project groups="darwin,mips" name="platform/prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/darwin-x86/mips/mipsel-linux-android-4.6" />
+  <project groups="darwin,x86" name="platform/prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/darwin-x86/x86/i686-linux-android-4.6" />
+  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.6" />
+  <project groups="linux,arm" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.6" />
+  <project groups="linux" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.4.3" />
+  <project groups="linux" name="platform/prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/i686-linux-glibc2.7-4.6" />
+  <project groups="linux" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.7-4.6" />
+  <project groups="linux,mips" name="platform/prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" path="prebuilts/gcc/linux-x86/mips/mipsel-linux-android-4.6" />
+  <project groups="linux,x86" name="platform/prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" path="prebuilts/gcc/linux-x86/x86/i686-linux-android-4.6" />
+  <project name="platform/prebuilts/misc" path="prebuilts/misc" />
+  <project name="platform/prebuilts/ndk" path="prebuilts/ndk" />
+  <project name="platform/prebuilts/qemu-kernel" path="prebuilts/qemu-kernel" />
+  <project name="platform/prebuilts/sdk" path="prebuilts/sdk" />
+  <project name="platform/prebuilts/tools" path="prebuilts/tools" />
+  <project name="platform/system/security" path="system/security" />
+  <project groups="toolsbuild" name="platform/tools/build" path="tools/build" />
+  <project name="platform/tools/motodev" path="tools/motodev" />
+
+</manifest>
